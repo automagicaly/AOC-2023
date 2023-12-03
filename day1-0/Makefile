@@ -1,3 +1,3 @@
 default:
-	go build -o prog
-	./prog < input
+	go build -o solution
+	./solution < input
